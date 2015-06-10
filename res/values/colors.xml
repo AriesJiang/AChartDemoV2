@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- For settings framework -->
+    <color name="lighter_gray">#ddd</color>
+    <color name="black">#000000</color>
+    <color name="darker_gray">#aaa</color>
+
+    <color name="dialog_bg">#71cf97</color>
+    <color name="green">#1ABC9C</color>
+    <color name="emerald">#2ECC71</color>
+    <color name="purple">#9B59B6</color>
+    <color name="blue">#3498DB</color>
+    <color name="red">#E74C3C</color>
+    <color name="white">#ffffff</color>
+    
+    <color name="app_background">#f2f2f3</color>
+    <color name="circle_color">#323a45</color>
+    <color name="ring_color">#14b9d6</color>
+    <color name="header_bg_common">#323a45</color>
+    <color name="chartred">#ed1941</color>
+    <!-- 值越大颜色越深 -->
+    <color name="chartred_shadow">#33ed1941</color>
+    <color name="chartred_white">#00FFFFFF</color>
+    
+</resources>

@@ -1,0 +1,6 @@
+# view res/layout/activity_main.xml #generated:20
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.example.achartdemov2.MainActivity { <init>(...); }
+
